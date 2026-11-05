@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="foto.jpg" width="180" alt="Foto de Gustavo Paulo" />
-
 # Olá, eu sou o Gustavo Paulo 👋
 ### aka **DevGu**
 
