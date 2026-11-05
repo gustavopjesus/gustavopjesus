@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/foto.jpg" width="180" alt="Foto de Gustavo Paulo" />
+<img src="foto.jpg" width="180" alt="Foto de Gustavo Paulo" />
 
 # Olá, eu sou o Gustavo Paulo 👋
 ### aka **DevGu**
@@ -53,7 +53,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
