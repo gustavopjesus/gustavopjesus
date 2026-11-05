@@ -50,6 +50,8 @@
 
 <div align="center">
 
-<a href="https://github.com/gustavopjesus"><img src="icons/github.png" width="56" alt="GitHub" /></a>   <a href="https://www.linkedin.com/in/gustavo-paulo-de-jesus/"><img src="icons/linkedin.png" width="56" alt="LinkedIn" /></a>   <a href="mailto:gustavopaaulodejesus797@gmail.com"><img src="icons/email.png" width="56" alt="Email" /></a>
+<a href="https://github.com/gustavopjesus"><img src="github.png" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gustavo-paulo-de-jesus/"><img src="linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:gustavopaaulodejesus797@gmail.com"><img src="email.png" width="56" alt="Email" /></a>
 
 </div>
