@@ -50,8 +50,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavopjesus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-paulo-de-jesus/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopaaulodejesus797@gmail.com)
+<a href="https://github.com/gustavopjesus"><img src="icons/github.png" width="56" alt="GitHub" /></a>   <a href="https://www.linkedin.com/in/gustavo-paulo-de-jesus/"><img src="icons/linkedin.png" width="56" alt="LinkedIn" /></a>   <a href="mailto:gustavopaaulodejesus797@gmail.com"><img src="icons/email.png" width="56" alt="Email" /></a>
 
 </div>
