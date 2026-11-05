@@ -1,51 +1,59 @@
-## 👋 Olá! Eu sou o Gustavo!
+<div align="center">
 
-🎯 Desenvolvedor em constante evolução
-💻 Formação técnica em Informática
-👨🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Em busca da primeira oportunidade na área de tecnologia
+<img src="assets/foto.jpg" width="180" alt="Foto de Gustavo Paulo" />
 
----
+# Olá, eu sou o Gustavo Paulo 👋
+### aka **DevGu**
 
-<div>
-  <a href="https://github.com/gustavopjesus">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavopjesus&show_icons=true&theme=dracula&cache_seconds=1800"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopjesus&layout=compact&theme=dracula"/>
-  </a>
-</div>
+*Desenvolvedor em formação • Java • Spring Boot • Angular* 💻
 
-
----
-
-### 🛠️ Tecnologias que uso:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-
----
-
-### 📫 Contato
-<div>
-  <a href="mailto:gustavpáulodejesus797@gmail.com">
-    <img  height="50" width="60"src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" >
-  </a>
-  &nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/gustavo-paulo-de-jesus" target="_blank">
-  <img height="50" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+![Localização](https://img.shields.io/badge/São_Paulo-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_de_Software-6e40c9?style=for-the-badge)
+![Estudando](https://img.shields.io/badge/Cursando-Análise_de_Sistemas-0a66c2?style=for-the-badge)
 
 </div>
 
 ---
+
+## 🧑‍💻 Sobre mim
+
+- 🏢 Trabalho com administração de imóveis em São Paulo, produzindo laudos de vistoria e documentos de locação
+- 🎓 Estudante de Administração e de Análise e Desenvolvimento de Sistemas (Senac)
+- 💡 Apaixonado por aprender e construir soluções com tecnologia, estudando todos os dias
+- 📈 Gosto de unir tecnologia, finanças e investimentos
+
+## 🛠️ Stack e ferramentas
 
 <div align="center">
 
-💡 *Obrigado pela visita! Sinta-se à vontade para explorar meus projetos!* 😄  
+![Stack](https://skillicons.dev/icons?i=java,spring,angular,mysql,git,github,figma&theme=dark)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **Infinity Tech** | Sistema desktop de gestão para varejo | Java Swing |
+| **Dashboard de Investimentos** | Painel pessoal para acompanhar a carteira e cotações | Angular, TypeScript |
+| **Shakti Artigos** | Design da loja virtual de pedras, cristais e japamalas | Figma |
+
+## 📚 Estudando agora
+
+- ☕ Java e Spring Boot
+- 🅰️ Angular e TypeScript
+- 🗄️ Bancos de dados: MySQL e SQL Server
+- 🧩 Análise e modelagem de sistemas
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
