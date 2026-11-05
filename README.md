@@ -1,28 +1,30 @@
 # Olá, eu sou o Gustavo Paulo 👋
-### aka **DevGu**
+### aka DevGu
 
-*Desenvolvedor em formação • Java • Spring Boot • Angular* 💻
+💻 Desenvolvedor em formação | Java • Spring Boot • Angular
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac
 
 ![Localização](https://img.shields.io/badge/São_Paulo-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_de_Software-6e40c9?style=for-the-badge)
-![Estudando](https://img.shields.io/badge/Cursando-Análise_de_Sistemas-0a66c2?style=for-the-badge)
-
-</div>
+![Estudando](https://img.shields.io/badge/Status-Buscando_Estágio-0a66c2?style=for-the-badge)
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🏢 Trabalho com administração de imóveis em São Paulo, produzindo laudos de vistoria e documentos de locação
-- 🎓 Estudante de Administração e de Análise e Desenvolvimento de Sistemas (Senac)
-- 💡 Apaixonado por aprender e construir soluções com tecnologia, estudando todos os dias
-- 📈 Gosto de unir tecnologia, finanças e investimentos
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac.
+- 💼 Atuo na área administrativa de uma imobiliária, trabalhando com processos, documentos e organização.
+- ☕ Tenho me dedicado ao desenvolvimento de software, principalmente com Java e programação orientada a objetos.
+- 🚀 Estou construindo minha base em desenvolvimento Back-End e expandindo meus conhecimentos em Front-End.
+- 📈 Também tenho interesse em tecnologia, mercado financeiro e investimentos.
+- 🎯 Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.
 
-## 🛠️ Stack e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-![Stack](https://skillicons.dev/icons?i=java,spring,angular,mysql,git,github,figma&theme=dark)
+![Tecnologias](https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,mysql,git,github,figma&theme=dark)
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -32,18 +34,19 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Infinity Tech** | Sistema desktop de gestão para varejo | Java Swing |
-| **Dashboard de Investimentos** | Painel pessoal para acompanhar a carteira e cotações | Angular, TypeScript |
-| **Shakti Artigos** | Design da loja virtual de pedras, cristais e japamalas | Figma |
+| **Infinity Tech** | Sistema desktop de gestão para varejo. | Java, Java Swing |
+| **Dashboard de Investimentos** | Painel para acompanhar carteira de investimentos e cotações. | Angular, TypeScript |
+| **Shakti Artigos** | Redesign de uma loja virtual de pedras, cristais e japamalas. | Figma |
 
-## 📚 Estudando agora
+## 📚 Estudando atualmente
 
-- ☕ Java e Spring Boot
+- ☕ Java e Programação Orientada a Objetos
+- 🚀 Spring Boot e desenvolvimento de APIs
 - 🅰️ Angular e TypeScript
-- 🗄️ Bancos de dados: MySQL e SQL Server
+- 🗄️ MySQL e SQL Server
 - 🧩 Análise e modelagem de sistemas
 
-## 📫 Vamos conversar?
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
